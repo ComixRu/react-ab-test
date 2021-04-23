@@ -11,4 +11,4 @@ export const VariantA = () => {
       This projects git repo
     </a>
   )
-}
+};
